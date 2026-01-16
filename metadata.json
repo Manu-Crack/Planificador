@@ -1,0 +1,9 @@
+
+{
+  "name": "Life OS - Asistente Personal Integral",
+  "description": "Un asistente digital de clase mundial para gestionar finanzas, tiempo, hábitos y valores personales con análisis de IA integrado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
